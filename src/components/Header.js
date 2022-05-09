@@ -11,6 +11,10 @@ function header() {
           <span>HOME</span>
         </a>
         <a>
+          <img src="/images/home-icon.svg" />
+          <span>HOME</span>
+        </a>
+        <a>
           <img src="/images/search-icon.svg" />
           <span>SEARCH</span>
         </a>
